@@ -1,3 +1,7 @@
+## 🌐 Acesse o projeto
+
+[👉 Calculadora de IMC](https://imc-calculadora-corporal.netlify.app/)
+
 # ⚖️ Calculadora de IMC
 
 ## 📌 Sobre o projeto
