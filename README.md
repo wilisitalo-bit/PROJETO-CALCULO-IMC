@@ -1,6 +1,6 @@
 ## 🌐 Acesse o projeto
 
-[👉 Calculadora de IMC](https://imc-calculadora-corporal.netlify.app/)
+[![Acessar Projeto](https://img.shields.io/badge/💪_Acessar_Calculadora_IMC-2196F3?style=for-the-badge)](https://imc-calculadora-corporal.netlify.app/)
 
 # ⚖️ Calculadora de IMC
 
